@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Andrea, an AI Engeneer
+[My website](https://andreagrandi.me) is the best place to know more about me and my projects
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/andrea-grandi/andreagrandiwebsite?style=flat&label=Last%20website%20update%3A&color=blue&link=https%3A%2F%2Fandreagrandi.me)](https://andreagrandi.me)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fandreagrandi.me&style=flat&label=Website%20status)](https://andreagrandi.me)
